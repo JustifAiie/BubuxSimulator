@@ -1,0 +1,11 @@
+Final Version 1.0
+
+HOW TO INSTALL : 
+
+- Download the full folder
+
+- Go to the folder location in the terminal
+
+- Type npm run dev to launch the local server
+
+- Go to localhost:8000 on your favorite internet browser 
