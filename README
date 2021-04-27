@@ -6,6 +6,8 @@ HOW TO INSTALL :
 
 - Go to the folder location in the terminal
 
-- Type npm run dev to launch the local server
+- Type "npm i" to install all the dependencies
+
+- Type "npm run dev" to launch the local server
 
 - Go to localhost:8000 on your favorite internet browser 
